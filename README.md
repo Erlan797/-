@@ -7,6 +7,9 @@
 
 
 Печатная плата:
+
+
+
 <img width="586" height="761" alt="image" src="https://github.com/user-attachments/assets/53b10e54-8d48-414f-ada7-edc22a1ca3c3" />
 
 
